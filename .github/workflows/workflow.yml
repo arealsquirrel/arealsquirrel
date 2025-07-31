@@ -20,7 +20,6 @@ jobs:
 
         # Options
           user: arealsquirrel
-          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Etc/GMT-7
           plugin_activity: yes
